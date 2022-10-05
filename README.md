@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey 👋,
 
-<!--
-**DrevanTonder/DrevanTonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Andre van Tonder** or “**drevan**”, a _web developer_ and _web designer_ passionate about creating beautifully crafted web experiences.
 
-Here are some ideas to get you started:
+When I’m not problem solving for the web, you can find me [learning photography](https://www.instagram.com/photosbydrevan/) 📸, at church ⛪, on a road-trip adventure 🌋, or something crazy with friends and family.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Wishing you the most awesome day, \
+Andre 🥳
+
+#### Also find me on
+
+- [drevan.me](https://drevan.me/)
+- [Twitter](https://twitter.com/DrevanTonder)
+- [LinkedIn](https://www.linkedin.com/in/andre-van-tonder/)
